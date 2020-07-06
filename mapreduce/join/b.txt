@@ -1,0 +1,10 @@
+aaa1 hadoop
+aaa2 hadoop
+aaa3 hadoop
+aaa4 hadoop
+aaa5 hadoop
+aaa6 hadoop
+aaa7 hadoop
+aaa8 hadoop
+aaa9 hadoop
+aaa10 hadoop
